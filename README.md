@@ -1,4 +1,13 @@
 ### Hi there 👋
+# Hi there 👋
+
+I'm a frontend developer skilled in PHP, JavaScript, CSS, and SCSS. I specialize in VTEX, Drupal, and WordPress. Passionate about creating dynamic, user-friendly web experiences.
+
+## Technologies & Tools
+-🌱 **Languages:** PHP, JavaScript, CSS, SCSS
+-⚡ **CMS:** VTEX, Drupal, WordPress
+
+
 
 <!--
 **oscar9010/oscar9010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
