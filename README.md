@@ -1,5 +1,5 @@
 
-# Hi Bro.... 👋
+# Hi Buddy.... 👋
 
 I'm a frontend developer skilled in PHP, JavaScript, CSS, and SCSS. I specialize in VTEX, Drupal, and WordPress. Passionate about creating dynamic, user-friendly web experiences.
 
