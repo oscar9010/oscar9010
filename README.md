@@ -5,18 +5,19 @@ I'm a frontend developer skilled in PHP, JavaScript, CSS, and SCSS. I specialize
 
 
 ## Technologies & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img alt="langs" align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar9010&layout=compact"/>
-💻Languages:<br>
-  - PHP 
-  - JavaScript
-  - CSS
-  - SCSS<br><br>
-⚡CMS: <br><br>
- <img class="drupal" src="https://github.com/oscar9010/oscar9010/assets/78940358/67fd3f79-5e7c-4dfe-8f61-9784f8c7bf0c" alt="VTEX" width="130" height="45" style="margin-left: 5cm;"/> 
+
+
+
+⚡CMS: <br>
+![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
 <img src="https://github.com/oscar9010/oscar9010/assets/78940358/cf429506-f624-40cd-a143-e389c20fda4b" alt="VTEX" width="130" height="45"/>
-<img src="https://github.com/oscar9010/oscar9010/assets/78940358/5b418557-9970-4fdd-bec8-a315a47b7c7d" alt="VTEX" width="150" height="45"/>
-
-
 
 
 
