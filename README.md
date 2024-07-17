@@ -2,7 +2,7 @@
 # Hi Buddy.... 👋
 
 I'm a frontend developer skilled in PHP, JavaScript, CSS, and SCSS. I specialize in VTEX, Drupal, and WordPress. Passionate about creating dynamic, user-friendly web experiences.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar9010)](https://github.com/oscar9010/github-readme-stats)
 ## Technologies & Tools
 -💻**Languages:** 
   - PHP 
